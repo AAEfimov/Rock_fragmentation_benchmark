@@ -74,7 +74,7 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui
 Аугментации: 90% rotate, Crop 0-40%, Grayscale 15%, Noise 1.05% of pixels 
 Train set: 3648 
 Test set: 200 
-![Ссылка на датасет](https://universe.roboflow.com/urfu-uavlq/stone_gen_new_segmentation/dataset/3)
+https://universe.roboflow.com/urfu-uavlq/stone_gen_new_segmentation/dataset/3
 
 
 ## Тесты. Пример работы детекции
