@@ -139,4 +139,5 @@ https://universe.roboflow.com/urfu-uavlq/stone_gen_new_segmentation/dataset/3
 2. Можно применить дополнительные методы доменной адаптации (например, transfer learning или fine-tuning) для более успешной интеграции синтетических и реальных данных. 
 3. Желательно исследовать более сложные аугментации и синтетические данные, чтобы улучшить генерацию данных, приближая их к реальным.
 
+![Булыжник вращается](https://github.com/AAEfimov/Rock_fragmentation_benchmark/blob/main/Rotate_Rock.gif)
 
