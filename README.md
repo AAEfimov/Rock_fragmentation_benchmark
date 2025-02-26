@@ -129,7 +129,7 @@ https://universe.roboflow.com/urfu-uavlq/stone_gen_new_segmentation/dataset/3
 
 Модели, обученные исключительно на реальных данных, показывают ограниченные результаты из-за небольшого объёма данных. 
 
-![QR со ссылкой на датасет](https://github.com/AAEfimov/Rock_fragmentation_benchmark/blob/main/qrcode%20-%20universe.roboflow.com_.png)
+Ссылка на датасет: https://universe.roboflow.com/urfu-uavlq/stone_gen_new_segmentation/dataset/3
 
 ## Планы по дальнейшему развитию проекта
 
